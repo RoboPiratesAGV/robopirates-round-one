@@ -1,3 +1,10 @@
-./OPENCV-OP/*avi
-./OBS-OP/*avi
+./OPENCV-OP/*.avi
+./OPENCV-OP/*.avi'
+./OPENCV-OP/*.mkv
+./OPENCV-OP/*.mkv'
+./OBS-OP/*.avi
+./OBS-OP/*.avi'
+./OBS-OP/*.mkv
+./OBS-OP/*.mkv'
+./OBS-OP/filtered
 __pycache__
